@@ -1,0 +1,1 @@
+{"version":3,"file":"StripeError.js","sourceRoot":"","sources":["../../src/api/StripeError.ts"],"names":[],"mappings":";;AAEA,MAAa,WAAY,SAAQ,KAAK;IAElC,YAAmB,UAAkB,EAAS,KAAqE;QAC/G,KAAK,CAAC,KAAK,CAAC,OAAO,CAAC,CAAC;QADN,eAAU,GAAV,UAAU,CAAQ;QAAS,UAAK,GAAL,KAAK,CAAgE;IAEnH,CAAC;CACJ;AALD,kCAKC"}
